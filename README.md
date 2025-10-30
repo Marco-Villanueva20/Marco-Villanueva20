@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de aplicaciones con enfoque en Arquitectura Backend, Diseño de Microservicios y Java/Spring Boot.</h3>
 
 <p align="center">
-  Actualmente, mi principal foco es profundizar en patrones de diseño, **resiliencia de sistemas** y soluciones de **integración de bases de datos políglotas**.
+  Actualmente, mi principal foco es profundizar en patrones de diseño, <strong>resiliencia de sistemas</strong> y soluciones de <strong>integración de bases de datos políglotas</strong>.
 </p>
 
 ---
