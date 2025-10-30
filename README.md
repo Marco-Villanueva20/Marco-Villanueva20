@@ -22,7 +22,7 @@
     <img src="https://oauth.net/images/oauth-logo-square.png" alt="OAuth2" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://es.wikipedia.org/wiki/Apache_Kafka#/media/Archivo:Apache_Kafka_logo.svg" alt="Kafka" width="40" height="40"/>
+    <img src="https://tse4.mm.bing.net/th/id/OIP._jxtvkrL60E8n_ey7sXBnQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Kafka" width="40" height="40"/>
   </a>
 </p>
 <p align="left">
