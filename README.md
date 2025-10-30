@@ -1,48 +1,69 @@
+<h1 align="center">Hola 👋, soy Marco Villanueva</h1>
+<h3 align="center">Desarrollador de aplicaciones con enfoque en Arquitectura Backend, Diseño de Microservicios y Java/Spring Boot.</h3>
 
-<h1 align="center">Hola 👋, soy Marco</h1>
-<h3 align="center">Soy un desarrollador de aplicaciones móviles de Perú, con especialización en Android. Actualmente, estoy profundizando mis conocimientos en arquitectura MVVM, Kotlin y las últimas herramientas del ecosistema Android.</h3>
-
-<p align="left">
+<p align="center">
+  Actualmente, mi principal foco es profundizar en patrones de diseño, **resiliencia de sistemas** y soluciones de **integración de bases de datos políglotas**.
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+---
+
+<h3 align="left">🛠️ Tecnologías y Herramientas Destacadas (Backend-Focused):</h3>
 <p align="left">
-  <!-- Íconos relacionados con Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://oauth.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/oauth/oauth-icon.svg" alt="OAuth2" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apachekafka/apachekafka-icon.svg" alt="Kafka" width="40" height="40"/>
+  </a>
 </p>
 <p align="left">
-  <!-- Otros íconos -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h3 align="left">💻 Proyectos Destacados (Ver repositorios para Arquitectura):</h3>
+<ul>
+  <li>
+    <strong>E-commerce Microservice:</strong> Sistema de ventas modular en **Java 21/Spring Boot**. Implementación de bases de datos Políglotas (PostgreSQL + MongoDB) y diseño con **Spring Cloud** (Eureka, Config Server).
+  </li>
+  <li>
+    <strong>ToDo List Microservices:</strong> Arquitectura Full-Stack con **OAuth2/OIDC** para seguridad y **Resilience4j** (Circuit Breaker) para tolerancia a fallos. Despliegue con Docker Compose.
+  </li>
+</ul>
+
+---
+
+<h3 align="left">📌 Conéctate y Aprende:</h3>
+<p align="left">
+  <a href="mailto:marcox2304@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-marcox2304%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin-aqui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marco%20Villanueva-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-villanueva20&show_icons=true&locale=en&layout=compact" alt="marco-villanueva20" /></p>
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-villanueva20&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Estadísticas de Lenguajes" />
+</p>
