@@ -48,10 +48,10 @@
 <h3 align="left">💻 Proyectos Destacados (Ver repositorios para Arquitectura):</h3>
 <ul>
   <li>
-    <strong>E-commerce Microservice:</strong> Sistema de ventas modular en **Java 21/Spring Boot**. Implementación de bases de datos Políglotas (PostgreSQL + MongoDB) y diseño con **Spring Cloud** (Eureka, Config Server).
+    <strong>E-commerce Microservice:</strong> Sistema de ventas modular en <strong>Java 21/Spring Boot</strong>strong>. Implementación de bases de datos Políglotas (PostgreSQL + MongoDB) y diseño con **Spring Cloud** (Eureka, Config Server).
   </li>
   <li>
-    <strong>ToDo List Microservices:</strong> Arquitectura Full-Stack con **OAuth2/OIDC** para seguridad y **Resilience4j** (Circuit Breaker) para tolerancia a fallos. Despliegue con Docker Compose.
+    <strong>ToDo List Microservices:</strong> Arquitectura Full-Stack con <strong>OAuth2/OIDC</strong>strong> para seguridad y **Resilience4j** (Circuit Breaker) para tolerancia a fallos. Despliegue con Docker Compose.
   </li>
 </ul>
 
