@@ -19,10 +19,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://oauth.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/oauth/oauth-icon.svg" alt="OAuth2" width="40" height="40"/>
+    <img src="https://oauth.net/images/oauth-logo-square.png" alt="OAuth2" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apachekafka/apachekafka-icon.svg" alt="Kafka" width="40" height="40"/>
+    <img src="https://es.wikipedia.org/wiki/Apache_Kafka#/media/Archivo:Apache_Kafka_logo.svg" alt="Kafka" width="40" height="40"/>
   </a>
 </p>
 <p align="left">
