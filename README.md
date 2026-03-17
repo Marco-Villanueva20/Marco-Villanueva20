@@ -1,69 +1,133 @@
-<h1 align="center">Hola 👋, soy Marco Villanueva</h1>
-<h3 align="center">Desarrollador de aplicaciones con enfoque en Arquitectura Backend, Diseño de Microservicios y Java/Spring Boot.</h3>
+<h1 align="center">Marco Villanueva</h1>
+<h3 align="center">Backend Developer | Java • Spring Boot • Microservices Architecture</h3>
 
 <p align="center">
-  Actualmente, mi principal foco es profundizar en patrones de diseño, <strong>resiliencia de sistemas</strong> y soluciones de <strong>integración de bases de datos políglotas</strong>.
+  Desarrollador backend especializado en <strong>arquitectura de microservicios</strong>, 
+  diseño orientado a dominio (DDD) y construcción de sistemas resilientes con <strong>Java y Spring Boot</strong>.
+</p>
+
+<p align="center">
+  Actualmente enfocado en: <strong>Spring Cloud, resiliencia distribuida, integración de bases de datos políglotas y despliegues containerizados</strong>.
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tecnologías y Herramientas Destacadas (Backend-Focused):</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://oauth.net/" target="_blank" rel="noreferrer">
-    <img src="https://oauth.net/images/oauth-logo-square.png" alt="OAuth2" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://tse4.mm.bing.net/th/id/OIP._jxtvkrL60E8n_ey7sXBnQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Kafka" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-</p>
+<h2 align="left">Arquitectura y Enfoque Técnico</h2>
 
----
-
-<h3 align="left">💻 Proyectos Destacados (Ver repositorios para Arquitectura):</h3>
 <ul>
-  <li>
-    <strong>E-commerce Microservice:</strong> Sistema de ventas modular en <strong>Java 21/Spring Boot</strong>. Implementación de bases de datos Políglotas (PostgreSQL + MongoDB) y diseño con <strong>Spring Cloud</strong> (Eureka, Config Server).
-  </li>
-  <li>
-    <strong>ToDo List Microservices:</strong> Arquitectura Full-Stack con <strong>OAuth2/OIDC</strong> para seguridad y <strong>Resilience4j</strong> (Circuit Breaker) para tolerancia a fallos. Despliegue con Docker Compose.
-  </li>
+  <li>Diseño de microservicios desacoplados con Spring Cloud (Config Server, Discovery Server, API Gateway).</li>
+  <li>Integración de bases de datos políglotas (PostgreSQL + MongoDB).</li>
+  <li>Aplicación de principios RESTful y buenas prácticas HTTP.</li>
+  <li>Enfoque en Domain-Driven Design (DDD) en capa de dominio.</li>
+  <li>Resiliencia con patrones como Circuit Breaker y Retry.</li>
+  <li>Containerización y despliegue reproducible con Docker y Docker Compose.</li>
 </ul>
 
 ---
 
-<h3 align="left">📌 Conéctate y Aprende:</h3>
+<h2 align="left">Stack Tecnológico</h2>
+
+<h3>Backend</h3>
+<p>
+Java 17/21 • Spring Boot • Spring Web • Spring Data • Spring Security • Spring Cloud • Maven • Lombok
+</p>
+
+<h3>Arquitectura Distribuida</h3>
+<p>
+Config Server • Discovery Server (Eureka) • API Gateway • Resilience4j • Kafka
+</p>
+
+<h3>Bases de Datos</h3>
+<p>
+PostgreSQL • MongoDB • MySQL
+</p>
+
+<h3>DevOps y Herramientas</h3>
+<p>
+Docker • Docker Compose • Git • Postman • Swagger/OpenAPI
+</p>
+
+---
+
+<h2 align="left">Proyectos Destacados</h2>
+
+<h3>🛒 E-commerce Microservices Platform</h3>
+<p>
+Arquitectura basada en microservicios utilizando Java 21 y Spring Boot.
+</p>
+
+<ul>
+  <li>Config Server centralizado para gestión de configuración externa.</li>
+  <li>Discovery Server (Eureka) para registro dinámico de servicios.</li>
+  <li>API Gateway para enrutamiento y control de acceso.</li>
+  <li>Persistencia políglota: PostgreSQL (transaccional) + MongoDB (documental).</li>
+  <li>Comunicación entre servicios preparada para escalar a mensajería asíncrona.</li>
+  <li>Despliegue completo con Docker Compose.</li>
+</ul>
+
+---
+
+<h3>📋 ToDo List Microservices</h3>
+<p>
+Sistema distribuido con autenticación y resiliencia aplicada.
+</p>
+
+<ul>
+  <li>Autenticación basada en OAuth2/OIDC.</li>
+  <li>Implementación de Circuit Breaker con Resilience4j.</li>
+  <li>Separación clara de capas: Controller, Service, Domain, Repository.</li>
+  <li>Pruebas de endpoints mediante Postman.</li>
+</ul>
+
+---
+
+<h2 align="left">Buenas Prácticas Aplicadas</h2>
+
+<ul>
+  <li>Uso correcto de códigos HTTP y cabeceras Location en POST.</li>
+  <li>Validaciones con Jakarta Validation.</li>
+  <li>Separación DTO ↔ Entidad mediante mappers.</li>
+  <li>Entidades orientadas a dominio (sin setters públicos innecesarios).</li>
+  <li>Constructores protegidos para persistencia (Mongo / JPA).</li>
+</ul>
+
+---
+
+<h2 align="left">Cómo Ejecutar los Proyectos</h2>
+
+<p><strong>Ejemplo genérico:</strong></p>
+
+<pre>
+git clone https://github.com/Marco-Villanueva20/&lt;repository&gt;.git
+cd &lt;repository&gt;
+./mvnw clean package
+./mvnw spring-boot:run
+</pre>
+
+<p>O si incluye Docker:</p>
+
+<pre>
+docker compose up --build -d
+</pre>
+
+---
+
+<h2 align="left">Enfoque Profesional</h2>
+
+<p>
+Mi objetivo es evolucionar hacia arquitecturas escalables orientadas a eventos, 
+mejorar patrones de resiliencia y construir sistemas backend preparados para producción.
+</p>
+
+---
+
+<h2 align="left">Contacto</h2>
 <p align="left">
   <a href="mailto:marcox2304@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-marcox2304%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin-aqui" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marco%20Villanueva-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marco-villanueva-24a5b6241/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marco%20Villanueva-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <br>
-
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-villanueva20&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Estadísticas de Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco-villanueva20&show_icons=true&layout=compact&theme=vision-friendly-dark" />
 </p>
